@@ -38,6 +38,13 @@
 
 **Итого:** 56 ч
 
+## Справочные материалы
+
+- [wc1c.info — официальный сайт библиотеки WC1C](https://wc1c.info/)
+- [wc1c/wc1c-main — репозиторий на GitHub](https://github.com/wc1c/wc1c-main)
+- [WC1C — страница плагина на WordPress.org](https://wordpress.org/support/plugin/wc1c-main/)
+- [Обзор интеграции WC1C с 1С](https://www.youtube.com/watch?v=VvaU6fFrZ-k) (видео)
+
 ## Связанные модули
 
 - [ECOMMERCE.md](ECOMMERCE.md) — каталог, заказы, склад
